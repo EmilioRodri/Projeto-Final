@@ -133,10 +133,10 @@ Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linh
 
 | Integrante | Papel | Status | Data | Comentário |
 |---|---|---|---|---|
-| Emilio Rodrigues | Revisor | ⬜ Pendente | | |
+| Emilio Rodrigues | Revisor | ✅ Aprovado | | |
 | Gabriel | Autor | ✅ Aprovado (autor) | | |
-| João Nicolas | Revisor | ⬜ Pendente | | |
-| Leonardo Hamilton | Revisor | ⬜ Pendente | | |
-| Marcell | Revisor | ⬜ Pendente | | |
+| João Nicolas | Revisor | ✅ Aprovado | | |
+| Leonardo Hamilton | Revisor | ✅ Aprovado | | |
+| Marcell | Revisor | ✅ Aprovado | | |
 
 > **Legenda:** ✅ Aprovado · ✏️ Aprovado com ajustes (descrever no comentário) · ❌ Reprovado (justificar) · ⬜ Pendente
