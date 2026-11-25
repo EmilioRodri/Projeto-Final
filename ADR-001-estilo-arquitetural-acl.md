@@ -109,11 +109,11 @@ Adotar a **opção 4**:
 Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linha na tabela. A ADR só passa para **Aceito (validado)** quando os 5 integrantes aprovarem.
 
 **Checklist do revisor**
-- [ ] O contexto e o problema estão corretos e coerentes com o projeto Check Your Work.
-- [ ] A decisão é consistente com as demais ADRs (sem contradições de nomes, números ou componentes).
-- [ ] As opções rejeitadas e os trade-offs estão bem justificados.
-- [ ] Os critérios de verificação (Fitness Functions) são mensuráveis.
-- [ ] Concordo com a decisão registrada.
+- [✅ ] O contexto e o problema estão corretos e coerentes com o projeto Check Your Work.
+- [✅ ] A decisão é consistente com as demais ADRs (sem contradições de nomes, números ou componentes).
+- [✅ ] As opções rejeitadas e os trade-offs estão bem justificados.
+- [✅ ] Os critérios de verificação (Fitness Functions) são mensuráveis.
+- [ ✅] Concordo com a decisão registrada.
 
 | Integrante | Papel | Status | Data | Comentário |
 |---|---|---|---|---|
