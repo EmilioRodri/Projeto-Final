@@ -121,6 +121,6 @@ Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linh
 | Gabriel | Revisor | ⬜ Pendente | | |
 | João Nicolas | Revisor | ⬜ Pendente | | |
 | Leonardo Hamilton | Revisor | ⬜ Pendente | | |
-| Marcell | Revisor | ⬜ Pendente | | |
+| Marcell | Revisor |✅ Aprovado | | |
 
 > **Legenda:** ✅ Aprovado · ✏️ Aprovado com ajustes (descrever no comentário) · ❌ Reprovado (justificar) · ⬜ Pendente
