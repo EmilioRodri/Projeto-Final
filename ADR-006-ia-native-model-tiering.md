@@ -104,3 +104,26 @@ Adotar a **opção 4**, implementada como um módulo **`Assistente IA`** executa
 - LEWIS, P. et al. *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. NeurIPS, 2020.
 - OWASP. *Top 10 for Large Language Model Applications*.
 - Relatório de Imersão Sprint 1 — "Trade-off Tecnológico: O Motor de Similaridade".
+
+---
+
+## 8. Validação da Equipe
+
+Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linha na tabela. A ADR só passa para **Aceito (validado)** quando os 5 integrantes aprovarem.
+
+**Checklist do revisor**
+- [ ] O contexto e o problema estão corretos e coerentes com o projeto Check Your Work.
+- [ ] A decisão é consistente com as demais ADRs (sem contradições de nomes, números ou componentes).
+- [ ] As opções rejeitadas e os trade-offs estão bem justificados.
+- [ ] Os critérios de verificação (Fitness Functions) são mensuráveis.
+- [ ] Concordo com a decisão registrada.
+
+| Integrante | Papel | Status | Data | Comentário |
+|---|---|---|---|---|
+| Emilio Rodrigues | Revisor | ⬜ Pendente | | |
+| Gabriel | Revisor | ⬜ Pendente | | |
+| João Nicolas | Revisor | ⬜ Pendente | | |
+| Leonardo Hamilton | Revisor | ⬜ Pendente | | |
+| Marcell | Autor | ✅ Aprovado (autor) | | |
+
+> **Legenda:** ✅ Aprovado · ✏️ Aprovado com ajustes (descrever no comentário) · ❌ Reprovado (justificar) · ⬜ Pendente
