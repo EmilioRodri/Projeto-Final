@@ -134,7 +134,7 @@ Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linh
 | Integrante | Papel | Status | Data | Comentário |
 |---|---|---|---|---|
 | Emilio Rodrigues | Revisor | ✅ Aprovado | | |
-| Gabriel | Autor | ✅ Aprovado (autor) | | |
+| Gabriel | Autor | ⬜ Pendente (autor) | | |
 | João Nicolas | Revisor | ✅ Aprovado | | |
 | Leonardo Hamilton | Revisor | ✅ Aprovado | | |
 | Marcell | Revisor | ✅ Aprovado | | |
