@@ -106,7 +106,7 @@ Adotar a **opção 4**:
 
 ## 8. Validação da Equipe
 
-Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linha na tabela. A ADR só passa para **Aceito (validado)** quando os 5 integrantes aprovarem.
+Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linha na tabela. **Resultado: ADR aprovado pelos 5 integrantes — Aceito (validado) em 25/11/2026.**
 
 **Checklist do revisor**
 - [✅ ] O contexto e o problema estão corretos e coerentes com o projeto Check Your Work.
@@ -117,10 +117,9 @@ Cada integrante deve ler este ADR, conferir o checklist abaixo e marcar sua linh
 
 | Integrante | Papel | Status | Data | Comentário |
 |---|---|---|---|---|
-| Emilio Rodrigues | Autor | ✅ Aprovado (autor) | | |
-| Gabriel | Revisor | ✅ Aprovado | | |
-| João Nicolas | Revisor | ✅ Aprovado | | |
-| Leonardo Hamilton | Revisor | ✅ Aprovado | | |
-| Marcell | Revisor |✅ Aprovado | | |
-
+| Emilio Rodrigues | Autor | ✅ Aprovado (autor) | 25/11/2026 | |
+| Gabriel | Revisor | ✅ Aprovado | 25/11/2026 | |
+| João Nicolas | Revisor | ✅ Aprovado | 25/11/2026 | |
+| Leonardo Hamilton | Revisor | ✅ Aprovado | 25/11/2026 | |
+| Marcell | Revisor | ✅ Aprovado | 25/11/2026 | |
 > **Legenda:** ✅ Aprovado · ✏️ Aprovado com ajustes (descrever no comentário) · ❌ Reprovado (justificar) · ⬜ Pendente
