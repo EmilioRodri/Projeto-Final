@@ -186,12 +186,12 @@ Todas as decisões arquiteturais e seus trade-offs estão consolidados na raiz d
 
 | ADR | Título da Decisão Arquitetural | Responsável | Status |
 | :--- | :--- | :--- | :---: |
-| [ADR-001](ADR-001-estilo-arquitetural-acl.md) | Processamento Assíncrono (AMQP) + Camada Anti-Corrupção (ACL/Adapter) para Proteção do LMS Legado | Emilio Rodrigues | Aprovado |
-| [ADR-002](ADR-002-conteineres-resiliencia.md) | Contêineres Especializados, Comunicação Híbrida (REST, gRPC, AMQP) e Resiliência (Circuit Breaker + Outbox) | Gabriel | Aprovado |
-| [ADR-003](ADR-003-dip-auditoria-worm.md) | Refatoração com DIP, Aceite Pragmático da Rigidez do Domínio (A = 0,5) e Auditoria Imutável WORM + Revisão Humana | Emilio Rodrigues | Aprovado |
-| [ADR-004](ADR-004-ddd-soberania-dados.md) | Distribuição de Dados e Soberania por Schemas Isolados no PostgreSQL (`schema_core`, `schema_auditoria`, `schema_similaridade`) | João Nicolas | Aprovado |
-| [ADR-005](ADR-005-padroes-gof-apresentacao.md) | Catálogo Tático de Padrões GoF (Criacionais, Estruturais e Comportamentais) e Padrões de Apresentação (MVC/MVVM) | Leonardo Hamilton | Aprovado |
-| [ADR-006](ADR-006-ia-native-model-tiering.md) | Arquitetura IA-Native: *Model Tiering* (SLM Local vs. LLM em Nuvem), RAG Vetorial e Guardrails LGPD/JSON Schema | Marcell Klug Dias | Aprovado |
+| [ADR-001](ADR-001-estilo-arquitetural-acl.md) | Processamento Assíncrono (AMQP) + Camada Anti-Corrupção (ACL/Adapter) para Proteção do LMS Legado | Emilio Rodrigues | Aprovado pela equipe |
+| [ADR-002](ADR-002-conteineres-resiliencia.md) | Contêineres Especializados, Comunicação Híbrida (REST, gRPC, AMQP) e Resiliência (Circuit Breaker + Outbox) | Gabriel | Aprovado pela equipe |
+| [ADR-003](ADR-003-dip-auditoria-worm.md) | Refatoração com DIP, Aceite Pragmático da Rigidez do Domínio (A = 0,5) e Auditoria Imutável WORM + Revisão Humana | Emilio Rodrigues | Aprovado pela equipe |
+| [ADR-004](ADR-004-ddd-soberania-dados.md) | Distribuição de Dados e Soberania por Schemas Isolados no PostgreSQL (`schema_core`, `schema_auditoria`, `schema_similaridade`) | João Nicolas | Aprovado pela equipe |
+| [ADR-005](ADR-005-padroes-gof-apresentacao.md) | Catálogo Tático de Padrões GoF (Criacionais, Estruturais e Comportamentais) e Padrões de Apresentação (MVC/MVVM) | Leonardo Hamilton | Aprovado pela equipe |
+| [ADR-006](ADR-006-ia-native-model-tiering.md) | Arquitetura IA-Native: *Model Tiering* (SLM Local vs. LLM em Nuvem), RAG Vetorial e Guardrails LGPD/JSON Schema | Marcell Klug Dias | Aprovado pela equipe |
 
 ---
 

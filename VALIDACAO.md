@@ -10,3 +10,7 @@
 | ADR-004 — DDD e Soberania de Dados | João Nicolas | ✅ Aprovado | ✅ Aprovado | ✍️ autor | ✅ Aprovado | ✅ Aprovado |
 | ADR-005 — Padrões GoF e MVC/MVVM | Leonardo | ✅ Aprovado | ✅ Aprovado | ✅ Aprovado | ✍️ autor | ✅ Aprovado |
 | ADR-006 — IA-Native e Model Tiering | Marcell | ✅ Aprovado | ✅ Aprovado | ✅ Aprovado | ✅ Aprovado | ✍️ autor |
+
+---
+
+**Status final:** ✅ Todas as ADRs (001 a 006) aprovadas pela equipe Sysops em 25/11/2026.

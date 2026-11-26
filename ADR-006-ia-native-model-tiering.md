@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| **Status** | Proposto → Aceito na Sprint 4 |
+| **Status** | ✅ Aceito — aprovado pela equipe Sysops (25/11/2026) |
 | **Data** | 2026-11-25 (Sprint 4) |
 | **Autor** | Marcell — Executor & Especialista em IA-Native |
 | **Revisores** | Emilio Rodrigues (Arquiteto Principal), João Nicolas (dados), Leonardo Hamilton (QA) |

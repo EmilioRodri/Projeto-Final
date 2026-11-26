@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| **Status** | Aceito |
+| **Status** | ✅ Aceito — aprovado pela equipe Sysops (25/11/2026) |
 | **Data** | 2026-11-25 (Sprint 4) |
 | **Autor** | Leonardo Hamilton — Executor & QA / Fitness Functions |
 | **Revisores** | Emilio Rodrigues (Arquiteto Principal), Gabriel |
